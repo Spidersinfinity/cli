@@ -185,7 +185,7 @@ def check_win_loss():
     return False
 
 
-# Main game loop
+# Main game loop.
 def main():
     print("Welcome to CEO vs CEO!")
     turn = 1
