@@ -2,6 +2,7 @@
 import random
 import time
 
+#Player Class
 class Player:
     def __init__(self, name, industry):
         self.name = name
