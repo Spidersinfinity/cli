@@ -10,7 +10,7 @@ player = {
     "suspicion": 0,
     "awareness": 0,
 }
-
+#asdasdasd
 opponent = {
     "capital": 100000,
     "revenue": 0,
